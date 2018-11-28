@@ -7,6 +7,10 @@
         "key": {
             "description": "Your sandbox secret key",
             "required": true
+        },
+        "pk": {
+            "description": "Your pk",
+            "required": true
         }
     }
 }
