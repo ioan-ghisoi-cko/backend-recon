@@ -4,7 +4,7 @@
   "version": "1.0.0",
   "main": "server.js",
   "scripts": {
-    "start": "KEY=${key} node server.js"
+    "start": "KEY=${key} PK=${pk} node server.js"
   },
   "repository": {
     "type": "git",
